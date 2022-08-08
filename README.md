@@ -1,4 +1,5 @@
 Olá, seja bem vindo(a) ao meu Github! 👋
+
 Sou graduado em Engenharia de Produção no qual trabalhei por 4 anos no setor de Planejamento e Controle da Produção.
 Amo aprender coisas novas, contribuir com ideias, resolver problemas, trabalhar em equipe e buscar novos desafios. 
 Atualmente migrei para a área de Tecnologia onde estou estudando Analise e Desenvolvimento de Sistemas, me aprofundando na linguagem de programação Python e estou em busca de uma oportunidade na área.
